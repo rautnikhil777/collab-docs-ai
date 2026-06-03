@@ -1,0 +1,22 @@
+# dependencies
+node_modules/
+
+# env files (VERY IMPORTANT)
+.env
+.env.local
+.env.production
+
+# logs
+logs/
+*.log
+
+# build output
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# npm
+package-lock.json

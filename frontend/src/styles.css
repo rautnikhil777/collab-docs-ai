@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ql-toolbar.ql-snow {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+#editor .ql-editor {
+  min-height: 60vh;
+}
+
